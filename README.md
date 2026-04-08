@@ -23,3 +23,5 @@ As principais bibliotecas utilizadas, listadas em [`requirements.txt`](requireme
 ## Visualização
 
 ![Imigração na América do Sul](imagens/imigracao_america_sul.png)
+
+![Versão](https://img.shields.io/badge/version-1.0-blue)
